@@ -44,7 +44,7 @@ or downscaling the frame before processing would further improve speed on high r
 | 2 | compressed_output.mp4 | Compressed video output |
 | 3 | compression_report.html | Offline storyboard and size comparison report |
 | 4 | segments_kept.json | Segment log for Sentio Mind pipeline integration |
-| 5 | demo.mp4 | Screen recording of the full working pipeline |
+| 5 | demo_video | Loom recording of the full working pipeline |
 
 ---
 
@@ -202,7 +202,7 @@ segments_kept.json         - Integration JSON for Sentio pipeline
 |-- compressed_output.mp4       Generated output video
 |-- compression_report.html     Generated HTML report
 |-- segments_kept.json          Generated segment log
-|-- demo.mp4                    Screen recording demo
+|-- demo_video                  Screen recording demo
 ```
 
 ---
