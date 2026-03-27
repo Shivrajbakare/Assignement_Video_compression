@@ -41,7 +41,7 @@ or downscaling the frame before processing would further improve speed on high r
 | # | File | Description |
 |---|------|-------------|
 | 1 | solution.py | Main compression script with all logic |
-| 2 | compressed_output.mp4 | Compressed video output |
+| 2 | Shivraj_Bakare_230280.mp4 | Compressed video output |
 | 3 | compression_report.html | Offline storyboard and size comparison report |
 | 4 | segments_kept.json | Segment log for Sentio Mind pipeline integration |
 | 5 | demo_video | Loom recording of the full working pipeline |
@@ -185,7 +185,7 @@ python solution.py "C:\Users\DELL\Downloads\files\Class_8_cctv_video_1.mov"
 
 This will generate:
 ```
-compressed_output.mp4      - Compressed H.264 video
+Shivraj_Bakare_230280.mp4      - Compressed H.264 video
 compression_report.html    - Offline HTML report
 segments_kept.json         - Integration JSON for Sentio pipeline
 ```
@@ -199,7 +199,7 @@ segments_kept.json         - Integration JSON for Sentio pipeline
 |-- solution.py                 Main script
 |-- template.py                 Skeleton with stubs
 |-- README.md                   This file
-|-- compressed_output.mp4       Generated output video
+|-- Shivraj_Bakare_230280.mp4       Generated output video
 |-- compression_report.html     Generated HTML report
 |-- segments_kept.json          Generated segment log
 |-- demo_video                  Screen recording demo
