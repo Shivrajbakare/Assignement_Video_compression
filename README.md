@@ -209,5 +209,5 @@ segments_kept.json         - Integration JSON for Sentio pipeline
 
 ## Author
 
-Branch: Materials Science and Engineering
+Branch: Shivraj_Bakare_230280
 Repo: https://github.com/Sentiodirector/Assignement_Video_compression.git
